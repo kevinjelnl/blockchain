@@ -1,0 +1,118 @@
+{
+    "va-id": "VA20190101",
+    "locatie": "Utrecht",
+    "bond": "Bond01",
+    "date": "2019-11-01",
+    "matches": [
+        {
+            "number": 1,
+            "weight-kgs": 70,
+            "rank": "N",
+            "gender": "male",
+            "result": {
+                "winner": "VAID30872",
+                "corner": "red",
+                "type": "knock-out",
+                "title-fight": false
+            },
+            "red-corner": {
+                "contender-id": "VAID30872",
+                "age": 18,
+                "represents": "FightClub Novi"
+            },
+            "blue-corner": {
+                "contender-id": "VAID69628",
+                "age": 18,
+                "represents": "LOI fighters"
+            }
+        },
+        {
+            "number": 2,
+            "weight-kgs": 60,
+            "rank": "C",
+            "gender": "female",
+            "result": {
+                "winner": "VAID40060",
+                "corner": "blue",
+                "type": "points",
+                "title-fight": false
+            },
+            "red-corner": {
+                "contender-id": "VAID67986",
+                "age": 21,
+                "represents": "Team Hardcoded"
+            },
+            "blue-corner": {
+                "contender-id": "VAID40060",
+                "age": 21,
+                "represents": "HelloWorld Crushers"
+            }
+        },
+        {
+            "number": 3,
+            "weight-kgs": 78.1,
+            "rank": "B",
+            "gender": "male",
+            "result": {
+                "winner": "VAID99271",
+                "corner": "red",
+                "type": "disqualification",
+                "title-fight": false
+            },
+            "red-corner": {
+                "contender-id": "VAID99271",
+                "age": 28,
+                "represents": "FightClub Novi"
+            },
+            "blue-corner": {
+                "contender-id": "VAID20972",
+                "age": 23,
+                "represents": "Fighting Spirit"
+            }
+        },
+        {
+            "number": 4,
+            "weight-kgs": 88,
+            "rank": "B",
+            "gender": "male",
+            "result": {
+                "winner": "VAID20200",
+                "corner": "blue",
+                "type": "points",
+                "title-fight": true
+            },
+            "red-corner": {
+                "contender-id": "VAID23916",
+                "age": 22,
+                "represents": "Team Hardcoded"
+            },
+            "blue-corner": {
+                "contender-id": "VAID20200",
+                "age": 19,
+                "represents": "Team Frontkick"
+            }
+        },
+        {
+            "number": 5,
+            "weight-kgs": 72.8,
+            "rank": "A",
+            "gender": "female",
+            "result": {
+                "winner": "VAID20124",
+                "corner": "blue",
+                "type": "knock-out",
+                "title-fight": true
+            },
+            "red-corner": {
+                "contender-id": "VAID12992",
+                "age": 22,
+                "represents": "Fighters NonStop"
+            },
+            "blue-corner": {
+                "contender-id": "VAID20124",
+                "age": 24,
+                "represents": "FooBar Sports"
+            }
+        }
+    ]
+}
