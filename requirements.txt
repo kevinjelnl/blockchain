@@ -11,7 +11,7 @@ MarkupSafe==1.0
 merkletools==1.0.3
 pipenv==2018.11.26
 pysha3==1.0.2
-requests==2.18.4
+requests==2.20.0
 urllib3==1.22
 virtualenv==16.7.5
 virtualenv-clone==0.5.3
