@@ -6,7 +6,7 @@ Flask-Executor==0.9.3
 gunicorn==19.9.0
 idna==2.6
 itsdangerous==0.24
-Jinja2==2.9.6
+Jinja2==2.11.3
 MarkupSafe==1.0
 merkletools==1.0.3
 pipenv==2018.11.26
