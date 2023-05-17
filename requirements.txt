@@ -9,7 +9,7 @@ itsdangerous==0.24
 Jinja2==2.11.3
 MarkupSafe==1.0
 merkletools==1.0.3
-pipenv==2018.11.26
+pipenv==2022.1.8
 pysha3==1.0.2
 requests==2.20.0
 urllib3==1.24.2
